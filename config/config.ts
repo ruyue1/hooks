@@ -18,7 +18,7 @@ export default {
       'fusion',
     ],
   ],
-  title: 'hooks_demo',
+  title: 'ruyue1 demo hooks',
   mode: 'site',
   favicon: '/demo-hooks/avatar.png',
   logo: '/demo-hooks/avatar.png',
